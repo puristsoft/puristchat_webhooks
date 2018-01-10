@@ -1,5 +1,5 @@
 
-PuristChat designed to ease the process of integrating backend applications that provide support to end customers, in simple scenario,  operator/agent chat support  may solve a his problem without the need to have backend system integrations , however , many enterprise customers may found that not enough , webhooks is the answer to extend support whilst providing more details about the case in hand including getting customer profile , account , purchase history ..etc. 
+PuristChat designed to ease the process of integrating backend applications that provide support to end customers, in simple scenario,  operator/agent chat support  may solve a problem without the need to have backend system integrations , however , many enterprise customers may found that not enough , webhooks is the answer to extend support whilst providing more details about the case such as getting customer profile , account , purchase history ..etc. 
 
 Our goal with PuristChat is to make customer support easy, fun, and accessible to enterprise with the desire to make better customer relationship. 
 
